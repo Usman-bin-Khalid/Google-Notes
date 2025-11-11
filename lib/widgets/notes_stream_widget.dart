@@ -66,7 +66,7 @@ class NotesStreamWidget extends StatelessWidget {
                   padding: EdgeInsets.only(left: 16.0, top: 16.0, bottom: 8.0),
                   child: Align(
                     alignment: Alignment.centerLeft,
-                    child: Text('OTHERS', 
+                    child: Text('NOTES', 
                       style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.grey),
                     ),
                   ),

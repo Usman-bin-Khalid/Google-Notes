@@ -56,6 +56,7 @@ class NotesGridView extends StatelessWidget {
         crossAxisCount: 2,
         crossAxisSpacing: 8.0,
         mainAxisSpacing: 8.0,
+        childAspectRatio: 1.5,
       ),
     );
   }
